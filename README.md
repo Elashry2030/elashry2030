@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdala Elashry</h1>
+<h1 align="center">Hi 👋, I'm Abdala Elsadny</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elashry2030&label=Profile%20views&color=0e75b6&style=flat" alt="elashry2030" /> </p>
